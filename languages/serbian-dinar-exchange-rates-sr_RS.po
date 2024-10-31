@@ -1,0 +1,79 @@
+# Copyright (C) 2015 Serbian Dinar Exchange Rates
+# This file is distributed under the same license as the Serbian Dinar Exchange Rates package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Serbian Dinar Exchange Rates 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/serbian-dinar-"
+"exchange-rates\n"
+"POT-Creation-Date: 2015-12-15 08:40:51+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-12-15 09:45+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Poedit 1.5.7\n"
+
+#. #-#-#-#-#  plugin.pot (Serbian Dinar Exchange Rates 1.0)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: serbian-dinar-exchange-rates.php:22 serbian-dinar-exchange-rates.php:31
+msgid "Serbian Dinar Exchange Rates"
+msgstr "Курсна Листа"
+
+#: serbian-dinar-exchange-rates.php:23
+msgid "Serbian Dinar Exchange Rates Widget!"
+msgstr "Курсна Листа Виџет"
+
+#: serbian-dinar-exchange-rates.php:43
+msgid "Title"
+msgstr "Наслов"
+
+#: serbian-dinar-exchange-rates.php:49
+msgid "Show date"
+msgstr "Прикажи датум"
+
+#: serbian-dinar-exchange-rates.php:55
+msgid "Show change"
+msgstr "Прикажи промене"
+
+#: serbian-dinar-exchange-rates.php:61
+msgid "Show percent"
+msgstr "Прикажи проценат"
+
+#: serbian-dinar-exchange-rates.php:67
+msgid "Show flags"
+msgstr "Прикажи заставице"
+
+#: serbian-dinar-exchange-rates.php:72
+msgid "Select format:"
+msgstr "Одабери формат:"
+
+#: serbian-dinar-exchange-rates.php:83
+msgid "Select the number of decimal places:"
+msgstr "Одабери број децималних места:"
+
+#: serbian-dinar-exchange-rates.php:94
+msgid "Width:"
+msgstr "Ширина:"
+
+#: serbian-dinar-exchange-rates.php:100
+msgid "Height:"
+msgstr "Висина:"
+
+#. #-#-#-#-#  plugin.pot (Serbian Dinar Exchange Rates 1.0)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  plugin.pot (Serbian Dinar Exchange Rates 1.0)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://wordpress.org/plugins/serbian-dinar-exchange-rates"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"\"Serbian Dinar Exchange Rates\" is a widget that gives the users from "
+"Serbia,Croatia and Bosnia and Herzegovina a possibility to see changes in "
+"rates of foreign currencies."
+msgstr "Кусрна листа је додатак који омогућује прегелд курса на вашем сајту."
+
+#. Author of the plugin/theme
+msgid "wpvote"
+msgstr ""
